@@ -1,0 +1,8 @@
+{
+  "name": "Daily Goal Tracker",
+  "description": "A gamified productivity app to track daily habits, maintain streaks, and level up your goals. Features secure authentication, responsive design, and dark mode support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
